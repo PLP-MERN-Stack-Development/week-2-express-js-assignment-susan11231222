@@ -1,0 +1,17 @@
+{
+  "name": "week-2-express-js-assignment-susan11231222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "answers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon answers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
